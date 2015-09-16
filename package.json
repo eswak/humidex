@@ -1,0 +1,27 @@
+{
+  "name": "humidex",
+  "version": "1.0.0",
+  "description": "Returns the humidex index in °C for a given temperature and hygrometry",
+  "main": "humidex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eswak/humidex"
+  },
+  "keywords": [
+    "humidex",
+    "air",
+    "temperature",
+    "hygrometry"
+  ],
+  "author": "@eswak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eswak/humidex/issues"
+  },
+  "homepage": "https://github.com/eswak/humidex",
+  "dependencies": {
+  }
+}
