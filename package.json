@@ -1,6 +1,6 @@
 {
   "name": "humidex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns the humidex index in °C for a given temperature and hygrometry",
   "main": "humidex.js",
   "scripts": {
