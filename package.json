@@ -1,7 +1,7 @@
 {
   "name": "humidex",
-  "version": "1.0.1",
-  "description": "Returns the humidex index in °C for a given temperature and hygrometry",
+  "version": "1.0.2",
+  "description": "Returns the humidex index for a given temperature in °C and hygrometry",
   "main": "humidex.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
